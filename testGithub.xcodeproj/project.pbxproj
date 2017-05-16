@@ -12,6 +12,7 @@
 		76BA208C1ECB3F0B00A645A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76BA208A1ECB3F0B00A645A0 /* Main.storyboard */; };
 		76BA208E1ECB3F0B00A645A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76BA208D1ECB3F0B00A645A0 /* Assets.xcassets */; };
 		76BA20911ECB3F0B00A645A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76BA208F1ECB3F0B00A645A0 /* LaunchScreen.storyboard */; };
+		76BA20991ECB419200A645A0 /* new1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76BA20981ECB419200A645A0 /* new1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		76BA208D1ECB3F0B00A645A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76BA20901ECB3F0B00A645A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76BA20921ECB3F0B00A645A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76BA20981ECB419200A645A0 /* new1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = new1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				76BA208D1ECB3F0B00A645A0 /* Assets.xcassets */,
 				76BA208F1ECB3F0B00A645A0 /* LaunchScreen.storyboard */,
 				76BA20921ECB3F0B00A645A0 /* Info.plist */,
+				76BA20981ECB419200A645A0 /* new1.swift */,
 			);
 			path = testGithub;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76BA20991ECB419200A645A0 /* new1.swift in Sources */,
 				76BA20891ECB3F0B00A645A0 /* ViewController.swift in Sources */,
 				76BA20871ECB3F0B00A645A0 /* AppDelegate.swift in Sources */,
 			);
@@ -300,6 +304,7 @@
 				76BA20971ECB3F0B00A645A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
