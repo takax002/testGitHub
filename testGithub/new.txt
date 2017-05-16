@@ -1,1 +1,1 @@
-from bithub
+from Github
